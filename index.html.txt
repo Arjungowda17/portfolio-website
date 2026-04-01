@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Arjungowda Javaregowda | AI/ML Engineer</title>
+</head>
+<body>
+
+<h1>Arjungowda Javaregowda</h1>
+<p>AI/ML Engineer | Machine Learning | Deep Learning</p>
+
+<h2>About Me</h2>
+<p>
+I am an AI graduate with a strong interest in Machine Learning, Deep Learning, and solving real-world problems using data-driven approaches. 
+I have experience building AI models and working on projects in computer vision and robotics.
+</p>
+
+<h2>Projects</h2>
+
+<h3>COVID-19 Detection</h3>
+<p>Deep learning model to detect COVID-19 from chest X-ray images using CNN and transfer learning.</p>
+
+<h2>Contact</h2>
+<p>Email: arjungowda777777@gmail.com</p>
+
+<p>
+<a href="https://github.com/Arjungowda17">GitHub</a>
+</p>
+
+</body>
+</html>
